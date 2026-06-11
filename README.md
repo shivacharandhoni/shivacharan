@@ -25,13 +25,17 @@
 
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/awkward-smile.gif?raw=true" alt="eye roll" width="50" /> About Me
 
-<p> Full Stack Developer and focus on innovation-driven projects.
-I specialize in transforming creative ideas into practical and efficient technological solutions.</p>
-• Build scalable full-stack apps using the MERN stack. <br>
-• Design dynamic APIs and automate smart workflows.<br>
-• software, hardware, IoT, AI & ML for innovative projects.<br>
-• Currently learning machine learning, smart device automation, and cloud DevOps.<br>
-• Open to open-source contributions and exciting collaborations
+<p>
+I'm a Full Stack Developer and enjoy building products that solve real-world problems.
+I mainly work with the MERN stack and like turning ideas into scalable, user-friendly applications.
+</p>
+
+• Building full-stack web applications using MongoDB, Express.js, React, and Node.js.<br>
+• Creating APIs, backend services, and workflow automation solutions.<br>
+• Interested in software engineering, cloud technologies, IoT, AI, and Machine Learning.<br>
+• Currently learning Machine Learning, DevOps, and cloud infrastructure.<br>
+• Enjoy working on challenging projects, contributing to open source, and continuously improving my skills.<br>
+• Always excited to collaborate, learn from others, and build impactful technology.
 
 
 <h3 align="center"><img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> 
